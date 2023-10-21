@@ -15,9 +15,6 @@ export const router = [
 
 
 
-
-
-
 /**
  * Supporting types for the router
  * NOTE Controllers must be non instantiated 
